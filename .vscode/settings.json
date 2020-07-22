@@ -1,0 +1,27 @@
+{
+    "cSpell.words": [
+        "FQDN",
+        "SELINUX",
+        "apiserver",
+        "chown",
+        "firewalld",
+        "fstab",
+        "gpgcheck",
+        "gpgkey",
+        "iptables",
+        "kmaster",
+        "kube",
+        "kubeadm",
+        "kubectl",
+        "kubelet",
+        "kworker",
+        "mkdir",
+        "repos",
+        "setenforce",
+        "swapoff",
+        "symlinks",
+        "sysconfig",
+        "sysctl",
+        "systemctl"
+    ]
+}
