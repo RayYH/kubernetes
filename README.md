@@ -1,6 +1,6 @@
 # Kubernetes
 
-This repo forks from [justmeandopensource's kubernetes](https://github.com/justmeandopensource/kubernetes). Since the existence of GFW, I changed the default mirror to ali cloud mirror for developers live in china's mainland.
+This repo forks from [justmeandopensource's kubernetes](https://github.com/justmeandopensource/kubernetes). Due to the existence of GFW, I changed the default mirror to ali cloud mirror so that developers live in china's mainland can run these scripts successfully.
 
 ## Use Bash Scripts
 
