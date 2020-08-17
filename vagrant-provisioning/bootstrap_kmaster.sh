@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# 阿里云镜像同步有延迟，当前最新版本是 1.18.3
+# ali cloud image synchronization is delayed. The latest version is 1.18.3
 KUBE_VERSION=1.18.3
 
 # Initialize Kubernetes
